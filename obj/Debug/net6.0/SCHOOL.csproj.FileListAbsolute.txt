@@ -1,0 +1,15 @@
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.csproj.AssemblyReference.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.AssemblyInfoInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.AssemblyInfo.cs
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.csproj.CoreCompileInputs.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\bin\Debug\net6.0\SCHOOL.exe
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\bin\Debug\net6.0\SCHOOL.deps.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\bin\Debug\net6.0\SCHOOL.runtimeconfig.json
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\bin\Debug\net6.0\SCHOOL.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\bin\Debug\net6.0\SCHOOL.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\refint\SCHOOL.dll
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.pdb
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\SCHOOL.genruntimeconfig.cache
+C:\Users\Aboo-l-Marjaan\Desktop\CLASSES\CONSOLEAPPS\SCHOOL\obj\Debug\net6.0\ref\SCHOOL.dll
